@@ -28,5 +28,5 @@ A modern, cross-platform mobile application designed for field agents and invent
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/Ahmad980-code/nexus_field.git](https://github.com/Ahmad980-code/nexus_field.git)
+git clone https://github.com/Ahmad980-code/nexus_field.git
 cd nexus_field
